@@ -1,0 +1,7 @@
+{
+  "name": "naventrepag",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
